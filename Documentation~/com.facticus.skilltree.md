@@ -1,7 +1,1 @@
-# Skill Tree
-
 A generic, extendable, and data oriented skill tree implementation for Unity
-
-## License
-
-MIT License
